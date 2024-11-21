@@ -1,0 +1,24 @@
+//JSON for Enviroment Variable
+{
+    "Endpoints": [
+        {
+            "environment": "https://org34b8cbae.crm11.dynamics.com",
+            "endpoint": "https://prod-01.uksouth.logic.azure.com"
+        },
+        {
+            "environment": "",
+            "endpoint": ""
+        }
+    ]
+}
+
+//JSON for Flow trigger
+
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        }
+    }
+}
